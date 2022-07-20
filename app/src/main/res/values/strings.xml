@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AprovacaoDeAlunos</string>
+    <string name="nota01">Informe a nota 1</string>
+    <string name="nota02">Informe a nota 2</string>
+    <string name="nota03">Informe a nota 3</string>
+    <string name="nota04">Informe a nota 4</string>
+    <string name="faltas">Informe a quantidade de faltas</string>
+    <string name="titulo">Notas dos Alunos</string>
+    <string name="sub_titulo">Calcule a média dos alunos.</string>
+</resources>
