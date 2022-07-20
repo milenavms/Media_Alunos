@@ -1,8 +1,10 @@
 # Media_Alunos
 App para calcular a Media final das notas dos alunos de uma classe.
 Projeto realizado durante o curso Android Master
-# Regra de negócios
-Para o aluno ser aprovado, sua média deverá ser maior ou igual a 5 e a quantidade de faltas deverá ser menor ou igual a 20.
+# Regra de negócio
+
+Para o aluno ser aprovado, a média deve ser maior ou igual a 5 e a quantidade de faltas deve ser menor ou igual a 20.
+
 
 
 
